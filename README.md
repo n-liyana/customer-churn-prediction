@@ -42,7 +42,7 @@ pip install -r requirements.txt
 How to Run
 ----------
 1. Clone the Repository
-   git clone <your-repository-url>
+   git clone (https://github.com/n-liyana/customer-churn-prediction)
 
 2. Run the Jupyter Notebook or Python Script
    Open the Jupyter Notebook or run the Python script in your preferred IDE.
@@ -82,9 +82,3 @@ project/
 License
 -------
 This project is open source and free to use under the MIT License.
-
-Contact
--------
-If you have any questions, feel free to reach out:
-- Name: [Your Name]
-- Email: [Your Email]
