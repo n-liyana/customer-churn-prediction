@@ -1,3 +1,8 @@
+
+nano .gitignore  # For Linux/Mac
+notepad .gitignore  # For Windows
+
+>>>>>>> 120c06cdf6041fa5b5bcf275ef5970f5afe2af64
 # Ignore Python cache files
 __pycache__/
 *.py[cod]
@@ -24,4 +29,7 @@ outputs/
 # Ignore model files (optional)
 *.pkl
 *.h5
+<<<<<<< HEAD
 
+=======
+>>>>>>> 120c06cdf6041fa5b5bcf275ef5970f5afe2af64
